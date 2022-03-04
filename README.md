@@ -1,5 +1,7 @@
 # local level model with explanatory variable
 
+![GitHub](https://img.shields.io/github/license/TeamMoos/local-level-model-with-explanatory-variable)
+
 A local level model with explanatory variable applied to Covid-19 case numbers and temperature. Please don't over interpret the results, because Correlation is not equal Clausality.
 
 ## Source
